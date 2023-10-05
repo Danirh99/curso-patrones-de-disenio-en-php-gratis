@@ -1,9 +1,6 @@
 <?php
 class Post
 {
-
-
-
     public static function getAll()
     {
         $db = DB::getInstance();
